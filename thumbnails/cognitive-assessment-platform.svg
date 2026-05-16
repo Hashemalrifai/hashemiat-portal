@@ -1,0 +1,102 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="640"
+  height="360"
+  viewBox="0 0 640 360"
+  fill="none"
+>
+  <rect width="640" height="360" rx="32" fill="#1D1A16" />
+  <rect x="24" y="24" width="592" height="312" rx="24" fill="url(#surface)" />
+  <path
+    d="M472 92C472 127.346 443.346 156 408 156C372.654 156 344 127.346 344 92C344 56.6538 372.654 28 408 28C443.346 28 472 56.6538 472 92Z"
+    fill="url(#glow)"
+    fill-opacity="0.95"
+  />
+  <rect x="72" y="84" width="182" height="112" rx="24" fill="#231F1A" />
+  <rect x="96" y="110" width="54" height="54" rx="16" fill="#B34D2E" />
+  <path
+    d="M175 138H225"
+    stroke="#F7EFE4"
+    stroke-width="12"
+    stroke-linecap="round"
+  />
+  <path
+    d="M175 164H210"
+    stroke="#8E7A69"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  <path
+    d="M316 224C316 187.549 345.549 158 382 158H500C536.451 158 566 187.549 566 224C566 260.451 536.451 290 500 290H382C345.549 290 316 260.451 316 224Z"
+    fill="#F6EFE8"
+    fill-opacity="0.9"
+  />
+  <text
+    x="76"
+    y="246"
+    fill="#F7F1EA"
+    font-family="Manrope, Arial, sans-serif"
+    font-size="18"
+    font-weight="700"
+    letter-spacing="3.6"
+  >
+    COGNITIVE ASSESSMENT
+  </text>
+  <text
+    x="76"
+    y="284"
+    fill="#F7F1EA"
+    font-family="Manrope, Arial, sans-serif"
+    font-size="38"
+    font-weight="800"
+    letter-spacing="-1.4"
+  >
+    Platform
+  </text>
+  <text
+    x="350"
+    y="216"
+    fill="#7A4D35"
+    font-family="Manrope, Arial, sans-serif"
+    font-size="18"
+    font-weight="800"
+    letter-spacing="3.2"
+  >
+    REASONING
+  </text>
+  <text
+    x="350"
+    y="252"
+    fill="#1D1A16"
+    font-family="Manrope, Arial, sans-serif"
+    font-size="28"
+    font-weight="800"
+    letter-spacing="-0.8"
+  >
+    hashemiat.com
+  </text>
+  <defs>
+    <linearGradient
+      id="surface"
+      x1="36"
+      y1="42"
+      x2="589"
+      y2="318"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#2A231D" />
+      <stop offset="1" stop-color="#443328" />
+    </linearGradient>
+    <radialGradient
+      id="glow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(408 92) rotate(90) scale(64)"
+    >
+      <stop stop-color="#F6C779" />
+      <stop offset="1" stop-color="#F6C779" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</svg>
